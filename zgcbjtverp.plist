@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://58.20.26.122:7015/jtvserver/zgcbjtverp.ipa</string>
+            <string>http://120.205.13.222:7005/jtvserver/zgjtverp/zgcbjtverp.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -19,7 +19,7 @@
             <key>needs-shine</key>
             <false/>
             <key>url</key>
-            <string>http://58.20.26.122:7015/jtvserver/icon.png</string>
+            <string>http://120.205.13.222:7005/jtvserver/icon.png</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -27,7 +27,7 @@
             <key>needs-shine</key>
             <false/>
             <key>url</key>
-            <string>http://58.20.26.122:7015/jtvserver/icon.png</string>
+            <string>http://120.205.13.222:7005/jtvserver/icon.png</string>
           </dict>
         </array>
         <key>metadata</key>
